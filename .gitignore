@@ -1,0 +1,5 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Tensorboard log files
+runs
